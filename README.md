@@ -8,7 +8,7 @@ pip install requests
 pip install Pillow
 pip install bs4
 ```
-<h1> To Run </h1>
+<h1> To Run: </h1>
 
 ```
 git clone https://github.com/girishrajani/covid19-india.git
@@ -18,3 +18,4 @@ python covid19-india-gui.py
 ```
 
 <h5> Project by Girish Rajani </h5>
+<h6> Covered under MIT License </h6>
