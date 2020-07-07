@@ -17,6 +17,6 @@ or run
 python covid19-india-gui.py
 ```
 <h2>Sceenshots: </h2>
-<img src="/Capture.png">
+<img src="/Capture.PNG" alt="screenshot">
 <h5> Project by Girish Rajani </h5>
 <h6> Covered under MIT License </h6>
