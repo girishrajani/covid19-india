@@ -16,6 +16,7 @@ double click on covid19-india-gui.exe
 or run
 python covid19-india-gui.py
 ```
-
+<h2>Sceenshots: </h2>
+<img src="/Capture.png">
 <h5> Project by Girish Rajani </h5>
 <h6> Covered under MIT License </h6>
